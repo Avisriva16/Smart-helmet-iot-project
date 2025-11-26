@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import HelmetImage from "../assets/helmet.png";
+import HelmetImage from "../assets/HelmetImage.png";
 
 export default function HomePage() {
   const [hoveredSensor, setHoveredSensor] = useState(null);

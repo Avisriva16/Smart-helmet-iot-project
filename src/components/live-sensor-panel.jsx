@@ -1,4 +1,4 @@
-// live-sensor-panel.jsx
+﻿// live-sensor-panel.jsx
 'use client';
 
 import { useEffect, useState } from "react";
