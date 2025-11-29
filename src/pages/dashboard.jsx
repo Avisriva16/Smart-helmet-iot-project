@@ -68,7 +68,7 @@ export default function Dashboard() {
                   CRITICAL ALERT: {mostRecentAlert.type}
                 </h3>
                 <p className="text-gray-200 text-base font-medium mt-1">
-                   ⚠️ {mostRecentAlert.message}
+                    {mostRecentAlert.message}
                 </p>
               </div>
             </div>
