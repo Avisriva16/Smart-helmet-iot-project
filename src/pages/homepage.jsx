@@ -127,9 +127,9 @@ export default function HomePage() {
       <section className="max-w-7xl mx-auto px-4 py-20 animate-fade-in-up">
         <div className="text-center mb-16">
           <h1 className="text-5xl md:text-6xl font-extrabold mb-4 text-white animate-fade-in-down">
-            Smart Mining Helmet{" "}
+            IoT-Enabled {" "}
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-yellow-600">
-              I<span className="text-white">oT</span> Monitoring
+              S<span className="text-white">mart</span> Miner Safety Helmet
             </span>
           </h1>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto mb-8 animate-fade-in-up-delay">
